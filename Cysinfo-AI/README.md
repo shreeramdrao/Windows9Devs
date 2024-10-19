@@ -12,7 +12,7 @@
    ```
 3. Clone this repository and navigate to the `CysinfoAI` folder:
    ```bash
-   git clone https://github.com/shreeramdrao/Cysinfo-AI.git
+   git clone https://github.com/shreeramdrao/FWC-Projects.git
    cd Cysinfo-AI
    ```
 4. Pull the required LLM model:
