@@ -11,9 +11,9 @@ Welcome to the **AI Projects Repository**. This repository contains two projects
 ## Projects in this Repository
 
 1. **Cysinfo AI**
-   - [README for Cysinfo AI](./CysinfoAI/README.md)
+   - [README for Cysinfo AI](Cysinfo-AI/README.md)
 
 2. **SOFTDOC**
-   - [README for SOFTDOC](./SOFTDOC/README.md)
+   - [README for SOFTDOC](Softdoc/README.md)
 
 Feel free to explore each project by visiting their respective directories and README files for detailed instructions on installation and usage.
