@@ -12,12 +12,12 @@
    ```
 3. Clone this repository and navigate to the `CysinfoAI` folder:
    ```bash
-   git clone https://github.com/shreeramdrao/FWC-Projects.git
+   git clone https://github.com/shreeramdrao/Windows9Devs.git
    cd Cysinfo-AI
    ```
 4. Pull the required LLM model:
    ```bash
-   ollama pull dolphin-llm-model:8b
+   ollama pull dolphin-llama3:8b
    ```
 5. Run the project:
    ```bash
